@@ -1,0 +1,36 @@
+h1 {
+  color: blueviolet;
+}
+
+h2 {
+  color: blueviolet;
+}
+
+h3 {
+  color: firebrick;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+li {
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+
+.wash {
+  color: blue;
+}
+
+.read {
+  color: seagreen;
+}
+
+.maths {
+  color: seagreen;
+}
+
+small {
+  font-size: 0.5rem;
+}
